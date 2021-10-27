@@ -58,8 +58,8 @@
 ## :bar_chart: Github Statistics
 <p align="left">  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutulovat2611&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutulovat2611&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
 </a>
   
-<img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=sutulovat2611&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=sutulovat2611&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
