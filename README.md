@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## :woman_technologist: About me
+:woman_student: I am a 3rd Year Software Engineering student at Monash University
+
+:brain: I’m currently learning Cyber Security basics
+
+👯 I’m looking for Web or Mobile Development Internship
+
+😄 I am open to collaboration opportunities (anytime & anywhere & any type) 
+
+
 ## 📧 Contact me via
 [![Gmail](https://img.shields.io/badge/-sutulovat2611@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sutulovat2611@gmail.com) [![Linkedin: Tatiana Sutulova](https://img.shields.io/badge/-Tatiana-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatiana-sutulova-a918ab220/)](https://www.linkedin.com/in/tatiana-sutulova-a918ab220/)
 
@@ -45,18 +55,11 @@
   </tbody>
 </table>
 
+## :bar_chart: Github Statistics
+<p align="left">  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutulovat2611&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
+</a>
+  
+<img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=sutulovat2611&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
-<!--
-**sutulovat2611/sutulovat2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
