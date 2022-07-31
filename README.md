@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## :woman_technologist: About me
-:woman_student: I am a 3rd Year Software Engineering student at Monash University
+:woman_student: I am a 4th Year Software Engineering student at Monash University
 
-:brain: I’m currently learning Cyber Security basics
+:brain: I’m currently working on the research paper "Copy-paste app usage actions from recordings"
 
 👯 I’m looking for Web or Mobile Development Internship
 
