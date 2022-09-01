@@ -51,6 +51,24 @@
         <span><b>C Programming</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>Android Studio</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>JQuery</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Python</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>C Programming</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
        <td width="25%" align="center">
         <span><b>Android Studio</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
