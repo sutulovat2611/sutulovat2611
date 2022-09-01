@@ -3,9 +3,9 @@
 ## :woman_technologist: About me
 :woman_student: I am a 4th Year Software Engineering student at Monash University
 
-:brain: I’m currently working on the research paper "Copy-paste app usage actions from recordings"
+:brain: I’m currently working on the research paper "Copy-paste app usage actions from video recordings"
 
-👯 I’m looking for Web or Mobile Development Internship
+👯 I’m looking for Sofware Engineering Internship
 
 😄 I am open to collaboration opportunities (anytime & anywhere & any type) 
 
@@ -50,6 +50,10 @@
       <td width="25%" align="center">
         <span><b>C Programming</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+       <td width="25%" align="center">
+        <span><b>Android Studio</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
     </tr>
   </tbody>
