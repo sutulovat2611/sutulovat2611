@@ -58,20 +58,16 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>JQuery</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+        <span><b>Node.Js</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Python</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span><b>Amazon Web Services(AWS)</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>C Programming</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-       <td width="25%" align="center">
-        <span><b>Android Studio</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+        <span><b>Jupyter Notebook</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
     </tr>
   </tbody>
