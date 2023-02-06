@@ -3,9 +3,7 @@
 ## :woman_technologist: About me
 :woman_student: I am a 4th Year Software Engineering student at Monash University
 
-:brain: I’m currently working on the research paper "Copy-paste app usage actions from video recordings"
-
-👯 I’m looking for Sofware Engineering Internship
+👯 I’m looking for part time software engineering job with an opportunity to start working full time once I graduate
 
 😄 I am open to collaboration opportunities (anytime & anywhere & any type) 
 
@@ -19,6 +17,10 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <span><b>React.js</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
         <span><b>HTML5</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
@@ -29,6 +31,20 @@
       <td width="25%" align="center">
         <span><b>JavaScript</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>Figma</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>TypeScript</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Webflow</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/webflow.svg">
       </td>
       <td width="25%" align="center">
         <span><b>Java</b></span><br><br><br>
@@ -70,14 +86,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
     </tr>
+    
   </tbody>
 </table>
-
-## :bar_chart: Github Statistics
-<p align="left">  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutulovat2611&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
-</a>
-  
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=sutulovat2611&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
