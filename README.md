@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 ## :woman_technologist: About me
-:woman_student: I am a 4th Year Software Engineering student at Monash University
+:woman_student: Software Engineering Graduate at Monash University (42nd in QS World University Rankings)
 
-👯 I’m looking for part time software engineering job with an opportunity to start working full time once I graduate
+👯 I’m currently looking for a full time job as a front-end developer
+
+:brain: I'm currently learning Vue.js framework due to its high demand nowadays 
 
 😄 I am open to collaboration opportunities (anytime & anywhere & any type) 
+
 
 
 ## 📧 Contact me via
@@ -86,7 +89,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
     </tr>
-    
   </tbody>
 </table>
 
