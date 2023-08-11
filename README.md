@@ -14,7 +14,7 @@
 ## 📧 Contact me via
 [![Gmail](https://img.shields.io/badge/-sutulovat2611@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sutulovat2611@gmail.com) [![Linkedin: Tatiana Sutulova](https://img.shields.io/badge/-Tatiana-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatiana-sutulova-a918ab220/)](https://www.linkedin.com/in/tatiana-sutulova-a918ab220/)
 
-## :computer: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## :computer: 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
